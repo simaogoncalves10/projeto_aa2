@@ -1,0 +1,5 @@
+Última atualização das pastas : 15 de Março de 2021
+---------------------------------------------------
+Ficheiro json com a informação recolhida da API pub : https://we.tl/t-VP3CX0Kswf
+Pasta do ambiente virtual : https://we.tl/t-jGdBWsiC7X
+Pasta do projeto todo : https://we.tl/t-9SGpARzOFi	
