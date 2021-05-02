@@ -1,7 +1,0 @@
-Última atualização dos ficheiros : 30 de Abril de 2021
-------------------------------------------------------------------------------
-Todos os documentos em baixo descritos : https://we.tl/t-LV67ORGzZm 
-Pasta pages com os ficheiros json de cada página : https://we.tl/t-wYMoIfvL3p
-Ficheiro csv com o dataset : https://we.tl/t-vR3WrUjWnI
-Ficheiro json com todos os objetos da API : https://we.tl/t-Av1CzQBMQh
-------------------------------------------------------------------------------
