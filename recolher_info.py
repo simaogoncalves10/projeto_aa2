@@ -10,7 +10,7 @@ for n_page in range(146):
     print(json_data["content"])
 
     #Mudar o nome do ficheiro
-    filename = "C:\\Users\\Simon\\OneDrive\\Documentos\\GitHub\\projeto_aa2\\pages\\page_{}_gastric_cancer.json".format(n_page)
+    filename = "pages\\page_{}_gastric_cancer.json".format(n_page)
   
 
     #Escrever a informação num ficheiro json

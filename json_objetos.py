@@ -48,4 +48,4 @@ df.index = df["id"]
 del df["id"]
 print(df)
 
-df.to_csv('dataset_gastric_cancer.csv', sep=",")
+df.to_csv('dataset_gastric_cancer.csv', sep="~")
