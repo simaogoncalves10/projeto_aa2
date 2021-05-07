@@ -1,4 +1,4 @@
-import urllib.parse, requests, json
+import urllib.parse, requests, json, os
 
 
 #Rescolher a informação da API pub
@@ -10,6 +10,9 @@ for n_page in range(146):
     print(json_data["content"])
 
     #Mudar o nome do ficheiro
+    if not os.path.exists('pages'):
+        os.makedirs('pages')
+    
     filename = "pages\\page_{}_gastric_cancer.json".format(n_page)
   
 
