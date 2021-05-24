@@ -36,6 +36,7 @@ Implementar uma pipeline em python que calcule a similaridade de documentos reco
 
 
 * Execução:
+
 Em primeiro lugar é necessário executar o ficheiro create_datasets.ipynb para obtermos os dois ficheiros de dados.
 
 De seguida é necessário executar o ficheiro data_exploration.ipynb para se calcular a frequencia das palvras e apresentar as 20 mais e menos frequentes.
