@@ -9,8 +9,11 @@ Orientadores : Rúben Rodrigues e Nuno Alves
 A execução deste notebook não é rápida por isso caso pretendam aceder aos ficheiros resultantes da mesma podem encontrá-los nos respetivos links.
 
 Todos os documentos em baixo descritos : https://we.tl/t-FXIaNe2bYQ
+
 Pasta pages com os ficheiros json de cada página : https://we.tl/t-V2N0sf024m
+
 Ficheiro csv com o dataset : https://we.tl/t-4V1I33HK2H
+
 Ficheiro json com todos os objetos da API : https://we.tl/t-SrrM3aEJUp
 
 
