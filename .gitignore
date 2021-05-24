@@ -134,3 +134,4 @@ info_gastric_cancer.json
 baseline/
 dataset_gastric_cancer.csv
 word_count.csv
+pubs_by_disease.json
