@@ -34,4 +34,8 @@ Existem abordagens baseadas em aprendizagem máquina não supervisionadas como a
 
 Implementar uma pipeline em python que calcule a similaridade de documentos recorrendo ao LDA e à fórmula de Jensen-Shannon e integrem a pipeline desenvolvida na framework do grupo BioSystems (BioTMpy).
 
-Em primeiro lugar é necessário executar o ficheiro create_datasets.ipynb para obtermos os dois ficheiros de dados
+
+* Execução:
+Em primeiro lugar é necessário executar o ficheiro create_datasets.ipynb para obtermos os dois ficheiros de dados.
+
+De seguida é necessário executar o ficheiro data_exploration.ipynb para se calcular a frequencia das palvras e apresentar as 20 mais e menos frequentes.
