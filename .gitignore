@@ -132,6 +132,7 @@ dmypy.json
 pages/
 info_gastric_cancer.json
 baseline/
+not_baseline/
 dataset_gastric_cancer.csv
 word_count.csv
 pubs_by_disease.json

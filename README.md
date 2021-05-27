@@ -39,4 +39,6 @@ Implementar uma pipeline em python que calcule a similaridade de documentos reco
 
 Em primeiro lugar é necessário executar o ficheiro create_datasets.ipynb para obtermos os dois ficheiros de dados.
 
-De seguida é necessário executar o ficheiro data_exploration.ipynb para se calcular a frequencia das palvras e apresentar as 20 mais e menos frequentes.
+De seguida é necessário executar o ficheiro data_exploration.ipynb para se calcular a frequencia das palavras e apresentar as 20 mais e menos frequentes.
+
+Consequentemente é necessário executar o ficheiro create_lda.ipynb para criar dois modelos de lda treinados, um com os dados em bruto e outro com algum pre processamento
