@@ -128,11 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-
+teste/
+data/
 pages/
 info_gastric_cancer.json
 baseline/
 not_baseline/
 dataset_gastric_cancer.csv
+dataset_reduced.csv
 word_count.csv
-pubs_by_disease.json
+pubs_by_disease.csv
+test.py
