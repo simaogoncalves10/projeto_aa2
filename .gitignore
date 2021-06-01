@@ -134,6 +134,8 @@ pages/
 info_gastric_cancer.json
 baseline/
 not_baseline/
+reduced/
+baseline100/
 dataset_gastric_cancer.csv
 dataset_reduced.csv
 word_count.csv
