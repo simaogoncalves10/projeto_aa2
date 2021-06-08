@@ -7,8 +7,7 @@ Orientadores : Rúben Rodrigues e Nuno Alves
 * Pequena anotação
 
 A execução deste notebook não é rápida por isso caso pretendam aceder aos ficheiros resultantes da mesma podem encontrá-los neste link.
-
-Link
+https://we.tl/t-zOAS5eXoiN
 
 * Contextualização
 
