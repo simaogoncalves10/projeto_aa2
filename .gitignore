@@ -144,3 +144,7 @@ pubs_by_disease.csv
 test.py
 modelo1/
 modelo2/
+modelo3/
+create_datasets.ipynb
+data_exploration.ipynb
+lda.ipynb

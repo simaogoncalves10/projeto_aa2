@@ -6,16 +6,9 @@ Orientadores : Rúben Rodrigues e Nuno Alves
 
 * Pequena anotação
 
-A execução deste notebook não é rápida por isso caso pretendam aceder aos ficheiros resultantes da mesma podem encontrá-los nos respetivos links.
+A execução deste notebook não é rápida por isso caso pretendam aceder aos ficheiros resultantes da mesma podem encontrá-los neste link.
 
-Todos os documentos em baixo descritos : https://we.tl/t-FXIaNe2bYQ
-
-Pasta pages com os ficheiros json de cada página : https://we.tl/t-V2N0sf024m
-
-Ficheiro csv com o dataset : https://we.tl/t-4V1I33HK2H
-
-Ficheiro json com todos os objetos da API : https://we.tl/t-SrrM3aEJUp
-
+Link
 
 * Contextualização
 
@@ -37,8 +30,4 @@ Implementar uma pipeline em python que calcule a similaridade de documentos reco
 
 * Execução:
 
-Em primeiro lugar é necessário executar o ficheiro create_datasets.ipynb para obtermos os dois ficheiros de dados.
-
-De seguida é necessário executar o ficheiro data_exploration.ipynb para se calcular a frequencia das palavras e apresentar as 20 mais e menos frequentes.
-
-Consequentemente é necessário executar o ficheiro create_lda.ipynb para criar dois modelos de lda treinados, um com os dados em bruto e outro com algum pre processamento
+Todos o nosso trabalho realizado encontra-se no ficheiro notebook.ipynb e deve ser executado sequencialmente
